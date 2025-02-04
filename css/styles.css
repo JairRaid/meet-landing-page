@@ -2,7 +2,7 @@
 html,
 body {
   width: 100%;
-  font-family: "Red Hat Display";
+  font-family: "Red Hat Display", serif;
 }
 
 * {
