@@ -1,4 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:Italicwght@100..900&display=swap");
+@font-face{
+    font-family: 'Red Hat Display';
+    src: url('../assets/font/RedHatDisplay-VariableFont_wght.ttf')format('truetype');
+    font-weight: 100 900;
+    font-style: normal italic;
+}
+
 html,
 body {
   width: 100%;
