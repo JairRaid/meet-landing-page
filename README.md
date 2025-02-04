@@ -50,4 +50,6 @@ Using custom JS to add the image hero on the right side.
 
 ## Author
 
+-email: rakotonirainyriija@gmail.com
+-facebook: https://web.facebook.com/jair.rakoto.3/
 
