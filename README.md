@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JairRaid/meet-landing-page
-- Live Site URL: 
+- Live Site URL: https://jairraid.github.io/meet-landing-page/
 
 ## My process
 
