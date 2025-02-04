@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/JairRaid/meet-landing-page
 - Live Site URL: 
 
 ## My process
